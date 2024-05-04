@@ -17,9 +17,8 @@ global.ytname = "YT: AviNetHunter"
 global.socialm = "GitHub: avishka33"
 global.location = "srilanka, southern, Galle"
 
-global.ownernumber = '+
-    94765799592'  //creator number
-global.ownername = '𝓡𝓮𝓪𝓵 𝓚𝓲𝓷𝓰 𝓐𝓿𝓲' //owner name
+global.ownernumber = '94765799592'  //creator number
+global.ownername = 'BAD-YOVI-MD' //owner name
 global.botname = '𝘼𝙫𝙞-𝙞𝙣𝙛𝙞𝙣𝙖𝙩𝙚-𝙀𝙙𝙞𝙩𝙞𝙤𝙣' //name of the bot
 
 //sticker details
