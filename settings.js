@@ -11,13 +11,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "94772836332"
-global.ownername = "𝓡𝓮𝓪𝓵 𝓚𝓲𝓷𝓰 𝓐𝓿𝓲"
+global.ownernomer = "94765799592"
+global.ownername = "BAD-YOVI-MD"
 global.ytname = "YT: AviNetHunter"
 global.socialm = "GitHub: avishka33"
 global.location = "srilanka, southern, Galle"
 
-global.ownernumber = '94772836332'  //creator number
+global.ownernumber = '+
+    94765799592'  //creator number
 global.ownername = '𝓡𝓮𝓪𝓵 𝓚𝓲𝓷𝓰 𝓐𝓿𝓲' //owner name
 global.botname = '𝘼𝙫𝙞-𝙞𝙣𝙛𝙞𝙣𝙖𝙩𝙚-𝙀𝙙𝙞𝙩𝙞𝙤𝙣' //name of the bot
 
@@ -42,7 +43,7 @@ global.autoTyping = false //auto typing ස්වයංක්‍රීයව ට
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages ස්වයංක්‍රීයව මැසෙජ් සීන් කීරීමට
 global.autobio = true //auto update bio ස්වයංක්‍රීයව වදන
-global.anti92 = true//auto block +92 
+global.anti92 = false//auto block +92 
 global.autoswview = true //auto view status/story ස්වයංක්‍රීයව ස්ටේටස් බැලීමට. true යොදන්න.
 
 //menu type 
